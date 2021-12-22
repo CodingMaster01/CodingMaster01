@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingmaster01" alt="codingmaster01" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mr_biplab123" target="blank"><img src="https://img.shields.io/twitter/follow/mr_biplab123?logo=twitter&style=for-the-badge" alt="mr_biplab123" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mr_biplab123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_biplab123" height="30" width="40" /></a>
